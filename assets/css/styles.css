@@ -43,10 +43,14 @@
 
 .button{
     border-style:groove;
+    padding-left:15px;
+    padding-right:15px;
 }
 
 .codebox{
     border-style:dashed;
+    padding-left:15px;
+    padding-right:15px;
 }
 
 a:hover{
