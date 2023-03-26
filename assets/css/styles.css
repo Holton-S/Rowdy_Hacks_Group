@@ -3,9 +3,10 @@
 	font-size:24px;
 	font-weight:bolder;
 	width:100% !important;
-    height:200px;
+    height:140px;
 	text-align:center;
     align-items: center;
+    display: flex;
 }
 
 
