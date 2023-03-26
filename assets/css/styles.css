@@ -1,3 +1,17 @@
+.banner{
+	background-color:#1815c8;
+	font-size:24px;
+	font-weight:bolder;
+	padding:32px;
+	padding-bottom:32px;
+	margin-top:18px;
+	margin-bottom:-5px;
+	margin-left:18px;
+	margin-right:18px;
+	text-align:center;
+}
+
+
 @media (min-width:700px){
 	.navContainer
 	{
@@ -19,10 +33,6 @@
 	margin-top:14px;
 	margin-left:3px;
 	margin-right:20px;
-}
-
-.centerBox{
-    
 }
 
 a:hover{
