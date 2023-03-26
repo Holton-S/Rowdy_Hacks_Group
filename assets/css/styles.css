@@ -2,7 +2,7 @@
 	background-color:blue;
 	font-size:24px;
 	font-weight:bolder;
-	width:1000px;
+	width:100% !important;
     height:200px;
 	text-align:center;
 }
